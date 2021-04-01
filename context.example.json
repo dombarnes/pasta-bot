@@ -1,0 +1,22 @@
+{
+  "badge-info": null,
+  "badges": { broadcaster: "1", premium: "1" },
+  "client-nonce": "a2123ff5081ca5969e2ce6ec4b27eff1",
+  "color": "#49AEA3",
+  "display-name": "DomBarnes",
+  "emotes": null,
+  "flags": null,
+  "id": "b888bed3-bc65-491c-82ad-9e4fe75552a6",
+  "mod": false,
+  "room-id": "70540853",
+  "subscriber": false,
+  "tmi-sent-ts": "1617271685420",
+  "turbo": false,
+  "user-id": "70540853",
+  "user-type": null,
+  "emotes-raw": null,
+  "badge-info-raw": null,
+  "badges-raw": "broadcaster/1,premium/1",
+  "username": "dombarnes",
+  "message-type": "chat"
+}
